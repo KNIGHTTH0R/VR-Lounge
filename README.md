@@ -4,7 +4,7 @@
 ![VR-Lounge thumbnail](https://skyreep.github.io/VR-Lounge/thumbnail.png "VR Lounge")
 
 ### Live Demo
-[github.com/skyreep/VR-Lounge](github.com/skyreep/VR-Lounge)
+[https://github.io/VR-Lounge/](https://github.io/VR-Lounge/)
 
 ### Description
 A web application built for cross-platform 360 videosphere VR experiences. This project was built using HTML, CSS, JS, Bootstrap, and A-Frame. This project was completed as part of an 8 hour rapid development cycle for Coastal Carolina University's CSCI 495 IS Capstone course, Spring 2019.
@@ -26,7 +26,7 @@ Since the content was uploaded and hosted by Glitch it can be opened locally fro
 <br>
 <br>
 You can find and remix this Glitch project here: 
-[glitch.com/edit/#!/skyreep-vr-lounge](glitch.com/edit/#!/skyreep-vr-lounge)
+[https://glitch.com/edit/#!/skyreep-vr-lounge](https://glitch.com/edit/#!/skyreep-vr-lounge)
 
 ### Future Work
 There is a known bug that causes the "click to start the video" alert to stay on the screen when playing unless refreshed on Desktop. 
