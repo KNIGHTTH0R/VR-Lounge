@@ -1,0 +1,42 @@
+h1, h2, h3, h4, h5 {
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  font-size: 7vw;
+}
+
+h2 {
+  font-size: 10vw;
+  margin-top: 4rem;
+}
+
+.card-title {
+  font-size: 20vw;
+  margin-top: 7rem;
+}
+
+body {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+.modal-body {
+  text-align: left;
+}
+
+.btn {
+  margin-top: 1.5rem;
+}
+
+.container {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.copy {
+  margin-top: 2rem;
+  margin-bottom: 5rem;
+}
+
+.figure-caption {
+  margin-top: 0.5rem;
+  margin-bottom: 2.5rem;
+}
