@@ -21,13 +21,8 @@ A web application built for cross-platform 360 videosphere VR experiences. This 
   
 ### Usage
 A-Frame can be a finnicky beast! If you're interested in working with this project I reccomend you visit its Glitch page. Glitch makes working with A-Frame much easier. You can also remix this project and create your own repo with the changes directly from Glitch, or you can download the full package directly to your system. Since the content was uploaded and hosted by Glitch it can be opened locally from your file explorer. When working with your own project however, it's important to note that any VR media you wish to show must be uploaded via a service that supports CORS headers (Amazon S3 Buckets and Glitch for example).
-You can find this project's Glitch here: 
-<!-- Copy and Paste Me -->
-<div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
-  <iframe
-    allow="geolocation; microphone; camera; midi; encrypted-media"
-    src="https://glitch.com/embed/#!/embed/skyreep-vr-lounge?path=README.md&previewSize=33"
-    alt="skyreep-vr-lounge on Glitch"
-    style="height: 100%; width: 100%; border: 0;">
-  </iframe>
-</div>
+You can find and remix this project's Glitch project here: glitch.com/edit/#!/skyreep-vr-lounge
+
+### Future Work
+There is a known bug that causes the "click to start the video" alert to stay on the screen when playing unless refreshed on Desktop. 
+I would also like to add keyboard control to the videos for desktop. During development I had it working in A-Frame version 0.7.1, but upon upgrading to 0.9.0 for other important features, it broke the keyboard control, and I have since removed it as a result (clicking and dragging is still functional).
