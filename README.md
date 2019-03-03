@@ -4,7 +4,7 @@
 ![VR-Lounge thumbnail](https://skyreep.github.io/VR-Lounge/thumbnail.png "VR Lounge")
 
 ### Live Demo
-[https://github.io/VR-Lounge/](https://github.io/VR-Lounge/)
+[https://skyreep.github.io/VR-Lounge/](https://skyreep.github.io/VR-Lounge/)
 
 ### Description
 A web application built for cross-platform 360 videosphere VR experiences. This project was built using HTML, CSS, JS, Bootstrap, and A-Frame. This project was completed as part of an 8 hour rapid development cycle for Coastal Carolina University's CSCI 495 IS Capstone course, Spring 2019.
