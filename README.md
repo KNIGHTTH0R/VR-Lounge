@@ -24,7 +24,8 @@ A-Frame can be a finnicky beast! If you're interested in working with this proje
 <br>
 Since the content was uploaded and hosted by Glitch it can be opened locally from your file explorer. When working with your own project however, it's important to note that any VR media you wish to show must be uploaded via a service that supports CORS headers (Amazon S3 Buckets and Glitch for example).
 <br>
-You can find and remix this project's Glitch project here: 
+<br>
+You can find and remix this Glitch project here: 
 [glitch.com/edit/#!/skyreep-vr-lounge](glitch.com/edit/#!/skyreep-vr-lounge)
 
 ### Future Work
