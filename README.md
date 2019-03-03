@@ -1,5 +1,5 @@
 # VR Lounge
-## A VR Video Player in your browser!
+## A cross-platform VR video player in your browser!
 
 ![VR-Lounge thumbnail](https://skyreep.github.io/VR-Lounge/thumbnail.png "VR Lounge")
 
